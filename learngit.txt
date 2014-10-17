@@ -1,1 +1,2 @@
-used by githu
+used by github.
+

@@ -1,6 +1,8 @@
 package books;
 import java.sql.*;
-//import java.util.*;//useles
+
+//import java.util.*;//useless;
+
 public class delete {
 	public String title;	
 	public String execute() throws Exception
