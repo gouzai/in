@@ -1,6 +1,6 @@
 package books;
 
-public class booklist {         //save type
+public class booklist {         //save typ
 
 		public String ISBN;
 		public String Title;
