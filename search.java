@@ -2,7 +2,7 @@ package books;
 import java.sql.*;
 import java.util.*;
 public class search {
-	public List<booklist> books =new ArrayList<booklist>();
+	public List<booklist> books =new ArrayList<booklist>();//use save type
 	public String name;
 	public String id;
 	public int age;
